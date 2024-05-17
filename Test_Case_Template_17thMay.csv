@@ -1,0 +1,34 @@
+﻿Test Case ID,Test Scenario,Precondition,Test Condition,Test Case Steps,Test Data,Expected Result,Actual Result Iteration 1,"Status
+ Iteration 1","Actual Result Iteration 2
+(to be updated only if test case failed in Iteration 1) ","Status
+ Iteration 2
+(to be updated only if test case failed in Iteration 1)",Comments,Req: Reference
+,,,,,,,,,,,,
+TC001,Registration,Registration page should be avaiable,To validate the person age,"1) open the application utl
+2) Navigate to the registration page
+3) Enter the invalid age
+4) click on submit",17,It should throw the error message,,,,,,
+TC001,Registration,Registration page should be avaiable,To validate the person age,"1) open the application utl
+2) Navigate to the registration page
+3) Enter the invalid age
+4) click on submit",18,valid,,,,,,
+TC001,Registration,Registration page should be avaiable,To validate the person age,"1) open the application utl
+2) Navigate to the registration page
+3) Enter the invalid age
+4) click on submit",25,valid,,,,,,
+TC001,Registration,Registration page should be avaiable,To validate the person age,"1) open the application utl
+2) Navigate to the registration page
+3) Enter the invalid age
+4) click on submit",20,valid,,,,,,
+TC001,Registration,Registration page should be avaiable,To validate the person age,"1) open the application utl
+2) Navigate to the registration page
+3) Enter the invalid age
+4) click on submit",68,valid,,,,,,
+TC001,Registration,Registration page should be avaiable,To validate the person age,"1) open the application utl
+2) Navigate to the registration page
+3) Enter the invalid age
+4) click on submit",99,valid,,,,,,
+TC001,Registration,Registration page should be avaiable,To validate the person age,"1) open the application utl
+2) Navigate to the registration page
+3) Enter the invalid age
+4) click on submit",101,It should throw the error message,,,,,,
